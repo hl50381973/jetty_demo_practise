@@ -1,0 +1,5 @@
+$ java -cp jetty-runner-8.1.0.RC5.jar org.eclipse.jetty.util.security.Password
+Tennis#1203
+Tennis#1203
+OBF:1fvk1ino1ku31kn01gw51ym71gs91kjm1kqr1ikq1ftq
+MD5:d35cc13bfb08a16a3a905dd7a28b2926
